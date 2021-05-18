@@ -18,7 +18,6 @@ var wizards = [];
 
 var getRandomNumber = function (wizardArr) {
   return Math.floor(Math.random() * wizardArr.length);
-
 };
 
 var getRandomWizard = function () {
